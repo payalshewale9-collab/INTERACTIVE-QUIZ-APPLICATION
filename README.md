@@ -5,6 +5,8 @@
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/420f6d6f-1924-46f6-bd8b-692d3dc35358" />
+
 
 
 The Interactive Quiz Application is a web-based application developed using HTML, CSS, and JavaScript. The main objective of this project is to provide a simple, user-friendly platform for conducting multiple-choice quizzes and evaluating user knowledge in an interactive manner. This application can be used in educational institutions, online learning platforms, and self-assessment systems.
